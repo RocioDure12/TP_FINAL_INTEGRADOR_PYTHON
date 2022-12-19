@@ -11,6 +11,10 @@ El modo de trabajo puede ser individual o grupal, en la última clase de la sema
 diciembre de 2022 exponen los que quieran compartir sus resoluciones
 """
 """
+
+"""
+
+"""
 Datos de entrada: temperatura de c/persona, nombre, dni
 Datos de salida: resultado de control (todos)
 Variables: temperatura, nombre, dni etc
