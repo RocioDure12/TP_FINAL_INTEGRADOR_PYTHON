@@ -100,5 +100,6 @@ invitados_temperatura_alta=lista_resultados('SELECT * FROM participantes WHERE t
 
 print("La cantidad de invitados que ingresaron en el evento es:",len(lista_de_participantes)-len(invitados_temperatura_alta))
 print("La cantidad de personas que no pudieron ingresar al evento por sintomas y fueron derivados a un hospital es de:", len(invitados_temperatura_alta))
-
+for tupla in lista_de_participantes:
+    print(tupla, end="\n")
 
