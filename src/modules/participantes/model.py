@@ -4,3 +4,4 @@ class Participante():
     dni:str=None
     temperatura:float=None
     id:int =None
+
